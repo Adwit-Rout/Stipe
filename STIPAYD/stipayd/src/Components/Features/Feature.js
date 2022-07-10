@@ -24,7 +24,7 @@ function Feature() {
           <h1 className='text-3xl font-semibold pb-2'>EASY TO USE</h1>
         </div>
         <div className='text-lg font-semibold'>
-        In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+        Get started with saving and investing. STIPayD is super simple to use. You can be an expert in seconds. Start your investment journy today & start compounding your money.
         </div>
         <button class="mt-4 inline-flex text-white font-bold bg-blue-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Learn More</button>
       </div>
@@ -40,7 +40,7 @@ function Feature() {
           <h1 className='text-3xl font-semibold pb-2'>SECURE AND RELIABLE</h1>
         </div>
         <div  className='text-lg font-semibold'>
-        In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+        You enjoy using STIPayD, we will Take care of your data. STIPayD is built in partnership with the best. You can count on us!
         </div>
         <button class="mt-4 inline-flex text-white font-bold bg-blue-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Learn More</button>
       </div>
@@ -56,7 +56,7 @@ function Feature() {
           <h1 className='text-3xl font-semibold pb-2'>GROWTH</h1>
         </div>
         <div  className='text-lg font-semibold'>
-        In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content.
+        Learn how money works & How you can take advantage of it. Promise, no boring classes/lessons included.
         </div>
         <button class="mt-4 inline-flex text-white font-bold bg-blue-700 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">Learn More</button>
       </div>
